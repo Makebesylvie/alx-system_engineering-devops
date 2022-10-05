@@ -1,1 +1,1 @@
-makebetasks1
+This repository contains solutions to shell tasks
